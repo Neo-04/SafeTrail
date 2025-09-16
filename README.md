@@ -12,7 +12,7 @@ Follow these steps to set up the project locally:
 ### 1️⃣ Clone or Download the Repository  
 Clone with Git:
 
-git clone https://github.com/ifrashadab/SafeTrail.git
+git clone https://github.com/Neo_04/SafeTrail.git
 
 cd SafeTrail
 
